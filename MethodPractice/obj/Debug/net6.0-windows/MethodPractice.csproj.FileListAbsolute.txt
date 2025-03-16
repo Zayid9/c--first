@@ -1,0 +1,16 @@
+D:\C# First\MethodPractice\bin\Debug\net6.0-windows\MethodPractice.exe
+D:\C# First\MethodPractice\bin\Debug\net6.0-windows\MethodPractice.deps.json
+D:\C# First\MethodPractice\bin\Debug\net6.0-windows\MethodPractice.runtimeconfig.json
+D:\C# First\MethodPractice\bin\Debug\net6.0-windows\MethodPractice.dll
+D:\C# First\MethodPractice\bin\Debug\net6.0-windows\MethodPractice.pdb
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.Form1.resources
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.csproj.GenerateResource.cache
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.AssemblyInfoInputs.cache
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.AssemblyInfo.cs
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.csproj.CoreCompileInputs.cache
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.dll
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\refint\MethodPractice.dll
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.pdb
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\MethodPractice.genruntimeconfig.cache
+D:\C# First\MethodPractice\obj\Debug\net6.0-windows\ref\MethodPractice.dll

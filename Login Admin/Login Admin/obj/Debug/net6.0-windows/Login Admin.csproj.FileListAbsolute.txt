@@ -1,0 +1,26 @@
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\Login Admin.exe
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\Login Admin.deps.json
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\Login Admin.runtimeconfig.json
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\Login Admin.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\Login Admin.pdb
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login_Admin.Form1.resources
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.csproj.GenerateResource.cache
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.AssemblyInfoInputs.cache
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.AssemblyInfo.cs
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.csproj.CoreCompileInputs.cache
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.dll
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\refint\Login Admin.dll
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.pdb
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.genruntimeconfig.cache
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\ref\Login Admin.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\Login Admin\Login Admin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.csproj.AssemblyReference.cache
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login Admin.csproj.CopyComplete
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login_Admin.Add_or_Register_Weapon.resources
+D:\C# First\Login Admin\Login Admin\obj\Debug\net6.0-windows\Login_Admin.Dashboard.resources

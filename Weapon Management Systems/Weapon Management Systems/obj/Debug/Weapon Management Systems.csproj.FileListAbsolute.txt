@@ -1,0 +1,85 @@
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Weapon Management Systems.exe.config
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Weapon Management Systems.exe
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Weapon Management Systems.pdb
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\EnvDTE.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\stdole.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.csproj.AssemblyReference.cache
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon_Management_Systems.Form1.resources
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon_Management_Systems.Properties.Resources.resources
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.csproj.GenerateResource.cache
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.csproj.CoreCompileInputs.cache
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.csproj.CopyComplete
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.exe
+D:\C# First\Weapon Management Systems\Weapon Management Systems\obj\Debug\Weapon Management Systems.pdb

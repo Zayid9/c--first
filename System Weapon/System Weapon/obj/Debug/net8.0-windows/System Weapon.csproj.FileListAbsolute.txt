@@ -1,0 +1,121 @@
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System Weapon.exe
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System Weapon.deps.json
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System Weapon.runtimeconfig.json
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System Weapon.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System Weapon.pdb
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Form1.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Properties.Resources.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.csproj.GenerateResource.cache
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.AssemblyInfoInputs.cache
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.AssemblyInfo.cs
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.csproj.CoreCompileInputs.cache
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\refint\System Weapon.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.pdb
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.genruntimeconfig.cache
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\ref\System Weapon.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.LoginForm.resources
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.csproj.AssemblyReference.cache
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.csproj.CopyComplete
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.MainForm.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Dashboard.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Owner.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.OwnerInfo.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Location.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.State.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Componisations.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.RegisterWeapon.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Category.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Weapons.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.Reports.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.IndividualReport.resources
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System_Weapon.OneByOneRep.resources
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebDesign.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebForms.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+D:\C# First\System Weapon\System Weapon\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\C# First\System Weapon\System Weapon\obj\Debug\net8.0-windows\System Weapon.csproj.ResolveComReference.cache

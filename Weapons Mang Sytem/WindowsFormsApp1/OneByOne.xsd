@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OneByOne" targetNamespace="http://tempuri.org/OneByOne.xsd" xmlns:mstns="http://tempuri.org/OneByOne.xsd" xmlns="http://tempuri.org/OneByOne.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="WEAPONDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="WEAPONDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp1.Properties.Settings.GlobalReference.Default.WEAPONDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="WEAPONDBConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Owners.OwnerName, Owners.Natinality, Owners.Sex, Owners.Telephone, Locations.District, Locations.Village, Locations.City, States.StateName, Categories.CategoryName, Weapons.WeaponName, Weapons.ManufacturerNo, 
+                  Weapons.MadeIn, Weapons.Year, Compenisation.OwnerID, Compenisation.WeaponPrice, Compenisation.ComPrice, Compenisation.TakeOver, Compenisation.Date_TakeOver
+FROM     Owners INNER JOIN
+                  Locations ON Owners.OwnerID = Locations.OwnerID INNER JOIN
+                  States ON Locations.LocationID = States.LocationID INNER JOIN
+                  Categories ON Owners.OwnerID = Categories.OwnerID INNER JOIN
+                  Weapons ON Categories.CategoryID = Weapons.CategoryID INNER JOIN
+                  Compenisation ON Owners.OwnerID = Compenisation.OwnerID</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="OwnerName" DataSetColumn="OwnerName" />
+              <Mapping SourceColumn="Natinality" DataSetColumn="Natinality" />
+              <Mapping SourceColumn="Sex" DataSetColumn="Sex" />
+              <Mapping SourceColumn="Telephone" DataSetColumn="Telephone" />
+              <Mapping SourceColumn="District" DataSetColumn="District" />
+              <Mapping SourceColumn="Village" DataSetColumn="Village" />
+              <Mapping SourceColumn="City" DataSetColumn="City" />
+              <Mapping SourceColumn="StateName" DataSetColumn="StateName" />
+              <Mapping SourceColumn="CategoryName" DataSetColumn="CategoryName" />
+              <Mapping SourceColumn="WeaponName" DataSetColumn="WeaponName" />
+              <Mapping SourceColumn="ManufacturerNo" DataSetColumn="ManufacturerNo" />
+              <Mapping SourceColumn="MadeIn" DataSetColumn="MadeIn" />
+              <Mapping SourceColumn="Year" DataSetColumn="Year" />
+              <Mapping SourceColumn="OwnerID" DataSetColumn="OwnerID" />
+              <Mapping SourceColumn="WeaponPrice" DataSetColumn="WeaponPrice" />
+              <Mapping SourceColumn="ComPrice" DataSetColumn="ComPrice" />
+              <Mapping SourceColumn="TakeOver" DataSetColumn="TakeOver" />
+              <Mapping SourceColumn="Date_TakeOver" DataSetColumn="Date_TakeOver" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OneByOne" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="OneByOne" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="OneByOne">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OwnerName" msprop:Generator_UserColumnName="OwnerName" msprop:Generator_ColumnPropNameInTable="OwnerNameColumn" msprop:Generator_ColumnPropNameInRow="OwnerName" msprop:Generator_ColumnVarNameInTable="columnOwnerName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Natinality" msprop:Generator_UserColumnName="Natinality" msprop:Generator_ColumnPropNameInTable="NatinalityColumn" msprop:Generator_ColumnPropNameInRow="Natinality" msprop:Generator_ColumnVarNameInTable="columnNatinality">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="70" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Sex" msprop:Generator_UserColumnName="Sex" msprop:Generator_ColumnPropNameInTable="SexColumn" msprop:Generator_ColumnPropNameInRow="Sex" msprop:Generator_ColumnVarNameInTable="columnSex" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Telephone" msprop:Generator_UserColumnName="Telephone" msprop:Generator_ColumnPropNameInTable="TelephoneColumn" msprop:Generator_ColumnPropNameInRow="Telephone" msprop:Generator_ColumnVarNameInTable="columnTelephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="District" msprop:Generator_UserColumnName="District" msprop:Generator_ColumnPropNameInTable="DistrictColumn" msprop:Generator_ColumnPropNameInRow="District" msprop:Generator_ColumnVarNameInTable="columnDistrict">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Village" msprop:Generator_UserColumnName="Village" msprop:Generator_ColumnPropNameInTable="VillageColumn" msprop:Generator_ColumnPropNameInRow="Village" msprop:Generator_ColumnVarNameInTable="columnVillage">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInTable="CityColumn" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="80" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StateName" msprop:Generator_UserColumnName="StateName" msprop:Generator_ColumnPropNameInTable="StateNameColumn" msprop:Generator_ColumnPropNameInRow="StateName" msprop:Generator_ColumnVarNameInTable="columnStateName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CategoryName" msprop:Generator_UserColumnName="CategoryName" msprop:Generator_ColumnPropNameInTable="CategoryNameColumn" msprop:Generator_ColumnPropNameInRow="CategoryName" msprop:Generator_ColumnVarNameInTable="columnCategoryName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WeaponName" msprop:Generator_UserColumnName="WeaponName" msprop:Generator_ColumnPropNameInTable="WeaponNameColumn" msprop:Generator_ColumnPropNameInRow="WeaponName" msprop:Generator_ColumnVarNameInTable="columnWeaponName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ManufacturerNo" msprop:Generator_UserColumnName="ManufacturerNo" msprop:Generator_ColumnPropNameInTable="ManufacturerNoColumn" msprop:Generator_ColumnPropNameInRow="ManufacturerNo" msprop:Generator_ColumnVarNameInTable="columnManufacturerNo" type="xs:int" />
+              <xs:element name="MadeIn" msprop:Generator_UserColumnName="MadeIn" msprop:Generator_ColumnPropNameInTable="MadeInColumn" msprop:Generator_ColumnPropNameInRow="MadeIn" msprop:Generator_ColumnVarNameInTable="columnMadeIn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Year" msprop:Generator_UserColumnName="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnVarNameInTable="columnYear" type="xs:dateTime" />
+              <xs:element name="OwnerID" msprop:Generator_UserColumnName="OwnerID" msprop:Generator_ColumnPropNameInTable="OwnerIDColumn" msprop:Generator_ColumnPropNameInRow="OwnerID" msprop:Generator_ColumnVarNameInTable="columnOwnerID" type="xs:int" />
+              <xs:element name="WeaponPrice" msprop:Generator_UserColumnName="WeaponPrice" msprop:Generator_ColumnPropNameInTable="WeaponPriceColumn" msprop:Generator_ColumnPropNameInRow="WeaponPrice" msprop:Generator_ColumnVarNameInTable="columnWeaponPrice" type="xs:int" />
+              <xs:element name="ComPrice" msprop:Generator_UserColumnName="ComPrice" msprop:Generator_ColumnPropNameInTable="ComPriceColumn" msprop:Generator_ColumnPropNameInRow="ComPrice" msprop:Generator_ColumnVarNameInTable="columnComPrice" type="xs:int" />
+              <xs:element name="TakeOver" msprop:Generator_UserColumnName="TakeOver" msprop:Generator_ColumnPropNameInTable="TakeOverColumn" msprop:Generator_ColumnPropNameInRow="TakeOver" msprop:Generator_ColumnVarNameInTable="columnTakeOver">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Date_TakeOver" msprop:Generator_UserColumnName="Date_TakeOver" msprop:Generator_ColumnPropNameInTable="Date_TakeOverColumn" msprop:Generator_ColumnPropNameInRow="Date_TakeOver" msprop:Generator_ColumnVarNameInTable="columnDate_TakeOver" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

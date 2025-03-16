@@ -1,0 +1,66 @@
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.exe
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.deps.json
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.runtimeconfig.json
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.pdb
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Form1.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.GenerateResource.cache
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.AssemblyInfoInputs.cache
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.AssemblyInfo.cs
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.CoreCompileInputs.cache
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\refint\Weapon System.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.pdb
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.genruntimeconfig.cache
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\ref\Weapon System.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.AssemblyReference.cache
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.CopyComplete
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Categories.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.MainFrame.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Properties.Resources.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Dashboard.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Owner.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Location.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Register.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.State.resources
+C:\Users\maahi\source\repos\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Cat.resources
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.exe
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.deps.json
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.runtimeconfig.json
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\Weapon System.pdb
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\Weapon System\Weapon System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.AssemblyReference.cache
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Cat.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Categories.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Dashboard.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Form1.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Location.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.MainFrame.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Owner.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Properties.Resources.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.Register.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon_System.State.resources
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.GenerateResource.cache
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.AssemblyInfoInputs.cache
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.AssemblyInfo.cs
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.CoreCompileInputs.cache
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.csproj.CopyComplete
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.dll
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\refint\Weapon System.dll
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.pdb
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\Weapon System.genruntimeconfig.cache
+D:\C# First\Weapon System\Weapon System\obj\Debug\net8.0-windows\ref\Weapon System.dll

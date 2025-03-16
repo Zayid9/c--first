@@ -1,0 +1,16 @@
+D:\C# First\CalculationStudentMark\CalculationStudentMark\bin\Debug\net6.0-windows\CalculationStudentMark.exe
+D:\C# First\CalculationStudentMark\CalculationStudentMark\bin\Debug\net6.0-windows\CalculationStudentMark.deps.json
+D:\C# First\CalculationStudentMark\CalculationStudentMark\bin\Debug\net6.0-windows\CalculationStudentMark.runtimeconfig.json
+D:\C# First\CalculationStudentMark\CalculationStudentMark\bin\Debug\net6.0-windows\CalculationStudentMark.dll
+D:\C# First\CalculationStudentMark\CalculationStudentMark\bin\Debug\net6.0-windows\CalculationStudentMark.pdb
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.Form1.resources
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.csproj.GenerateResource.cache
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.AssemblyInfoInputs.cache
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.AssemblyInfo.cs
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.csproj.CoreCompileInputs.cache
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.dll
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\refint\CalculationStudentMark.dll
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.pdb
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\CalculationStudentMark.genruntimeconfig.cache
+D:\C# First\CalculationStudentMark\CalculationStudentMark\obj\Debug\net6.0-windows\ref\CalculationStudentMark.dll

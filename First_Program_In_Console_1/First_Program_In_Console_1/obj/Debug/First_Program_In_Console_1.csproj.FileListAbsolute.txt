@@ -1,0 +1,7 @@
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\bin\Debug\First_Program_In_Console_1.exe.config
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\bin\Debug\First_Program_In_Console_1.exe
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\bin\Debug\First_Program_In_Console_1.pdb
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\obj\Debug\First_Program_In_Console_1.csproj.AssemblyReference.cache
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\obj\Debug\First_Program_In_Console_1.csproj.CoreCompileInputs.cache
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\obj\Debug\First_Program_In_Console_1.exe
+D:\C# First\First_Program_In_Console_1\First_Program_In_Console_1\obj\Debug\First_Program_In_Console_1.pdb
